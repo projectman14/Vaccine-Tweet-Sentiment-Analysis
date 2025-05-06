@@ -1,4 +1,4 @@
-# 🧠 Analysing COVID-19 Vaccine Tweet Sentiment Using Machine Learning
+# 🧠 Analysing Vaccine Tweet Sentiment Using Machine Learning
 
 *Contributors:*  
 - Lakshya Jain (23UCS633)  
